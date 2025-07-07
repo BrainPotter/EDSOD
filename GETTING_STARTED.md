@@ -59,7 +59,7 @@ python train_visdrone.py --num-gpus 4 --config-file configs/diffdet.visdrone.swi
 
 5. Evaluate EDSOD
 ```
-python train_visdrone.py --num-gpus 8 \
+python train_visdrone.py --num-gpus 4 \
     --config-file configs/diffdet.visdrone.swinbase.500boxes.yaml \
     --eval-only MODEL.WEIGHTS path/to/model.pth
 ```
