@@ -2,7 +2,7 @@
 
 ## The whold framework of the EDSOD:
 
-<img src="images/pic1.jpg" width="720" height="440"/>
+<img src="images/pic1.JPG" width="720" height="440"/>
 
 ## Experimental results on VisDrone and UAVDT
 
@@ -22,7 +22,7 @@ This project is under the CC-BY-NC 4.0 license. See [LICENSE](LICENSE) for detai
 
 
 ## Acknowledgement
-A large part of the code is borrowed from DiffusionDet. Much thanks for their excellent works.
+A large part of the code is borrowed from DiffusionDet. Much thanks for their excellent work.
 
 <pre>
 @inproceedings{chen2023diffusiondet,
