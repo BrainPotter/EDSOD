@@ -69,7 +69,7 @@ python train_visdrone.py --num-gpus 4 \
 
 
 We also provide the [pretrained model of VisDrone](https://github.com/ShoufaChen/DiffusionDet/releases/download/v0.1/diffdet_coco_res50_300boxes.pth) and [pretrained model of UAVDT](https://github.com/ShoufaChen/DiffusionDet/releases/download/v0.1/diffdet_coco_res50_300boxes.pth)
-of [EDSOD-visdrone-swinbase-500boxes](configs/diffdet.visdrone.swinbase.500boxes.yaml) and [EDSOD-uavdt-swinbase-500boxes](configs/diffdet.uavdt.swinbase.500boxes.yaml) that is used for ablation study.
+of [EDSOD-visdrone-swinbase-500boxes](configs/diffdet.visdrone.swinbase.500boxes.yaml) and [EDSOD-uavdt-swinbase-500boxes](configs/diffdet.uavdt.swinbase.500boxes.yaml) that are used for ablation study.
 
 6. Deformable DETR + iterative refinement + two stage
 
