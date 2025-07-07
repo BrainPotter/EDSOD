@@ -68,7 +68,7 @@ python train_visdrone.py --num-gpus 4 \
 * Evaluate with 4 refinement steps by setting `MODEL.DiffusionDet.SAMPLE_STEP 4`.
 
 
-We also provide the [pretrained model of VisDrone](https://github.com/ShoufaChen/DiffusionDet/releases/download/v0.1/diffdet_coco_res50_300boxes.pth) and [pretrained model of UAVDT](https://github.com/ShoufaChen/DiffusionDet/releases/download/v0.1/diffdet_coco_res50_300boxes.pth)
+We also provide the [pretrained model of VisDrone](https://drive.google.com/file/d/1BKGA5oNSmmRclzZ8YXiQeo4Ewa40A3Nc/view?usp=drive_link) and [pretrained model of UAVDT](https://drive.google.com/file/d/1w47oyHjvptjZd1s4CqaYg-urIuIrZ5oV/view?usp=drive_link)
 of [EDSOD-visdrone-swinbase-500boxes](configs/diffdet.visdrone.swinbase.500boxes.yaml) and [EDSOD-uavdt-swinbase-500boxes](configs/diffdet.uavdt.swinbase.500boxes.yaml) that are used for ablation study.
 
 6. Deformable DETR + iterative refinement + two stage
