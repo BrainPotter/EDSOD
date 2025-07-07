@@ -10,6 +10,7 @@
 
 ## Updates
 - (7/2025) Code is released.
+- (6/2025) Our paper has been accepted in IROS 2025.
 
 ## Getting Started
 
