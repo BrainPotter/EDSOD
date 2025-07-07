@@ -1,6 +1,6 @@
 ## EDSOD: An Encoder-Decoder, Diffusion-model, and Swin-Transformer-based Small Object Detector
 
-## The whold framework of the EDSOD:
+## The whold framework of the EDSOD
 
 <img src="images/pic1.JPG" width="720" height="440"/>
 
